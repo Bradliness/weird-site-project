@@ -1,0 +1,31 @@
+/*****base styles*****/
+body {
+  background: url('../img/twinkle.gif');
+}
+h1 {
+  font-size: 6.7em;
+  font-family: 'Bebas Neue', cursive;
+display:flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+flex-direction:column;
+margin-left: auto;
+margin-right: auto;
+padding-left: 25%;
+padding-right: 25%;
+  color: #21c42a;
+}
+
+img {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction:column;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 25%;
+  padding-right: 25%;
+
+}
